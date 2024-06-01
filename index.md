@@ -1,4 +1,4 @@
-## Blog
+### Blog
 
 
 I am learning how github pages work. I have no idea what's going on. Hopefully I can make this professional.
