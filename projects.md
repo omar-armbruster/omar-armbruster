@@ -2,7 +2,7 @@
 title: "Projects"
 permalink: /projects
 ---
-### Projects
+# Projects
 
 This would be great to be able to know how to use markdown.
 
