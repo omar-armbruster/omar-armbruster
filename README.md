@@ -1,1 +1,1 @@
-Physics and Computer Science double major at Middlebury College. Big enthusiast of running and not eating gluten.
+Physics and Computer Science double major at Middlebury College. 
